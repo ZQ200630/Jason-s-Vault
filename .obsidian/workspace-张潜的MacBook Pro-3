@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "bbac4d95a91f1dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c17f781c12a1b75",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b2e50c6a391a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33667a04fb2541d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3007fc56339a72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2ae761f207c2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "904d33c3c5d79efe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "38af8a98e933f00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b59ea347bc3c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331b4bd365e19289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fe3d3b9c1c7cfc76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f32c20df1e79d37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c1203f1e5b350f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "96e351c2c2c50181",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fd5129f2b858c8a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305,
+    "collapsed": true
+  },
+  "active": "2c17f781c12a1b75",
+  "lastOpenFiles": [
+    "English/每日输入/2021.11.25.md",
+    "Where did Russia come from - Alex Gendler.md",
+    "Test/Untitled.md",
+    "Test/未命名 1.md",
+    "Test/未命名.md",
+    "Journal/Untitled.md",
+    "2021-11-21.md",
+    "Private/Password.md",
+    "English/每日输入/2021.11.24.md",
+    "English/每日输入/2021.11.23.md"
+  ]
+}

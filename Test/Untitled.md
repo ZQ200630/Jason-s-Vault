@@ -1,0 +1,7 @@
+
+
+
+```dataview
+list
+from [[AAA]] 
+```

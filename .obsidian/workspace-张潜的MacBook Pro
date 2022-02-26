@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6ee63c7b9908e030",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dfa27b4e5ce1138",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/每日输入.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b2e50c6a391a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33667a04fb2541d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3007fc56339a72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2ae761f207c2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "38af8a98e933f00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b59ea347bc3c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331b4bd365e19289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/每日输入.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221,
+    "collapsed": true
+  },
+  "active": "4dfa27b4e5ce1138",
+  "lastOpenFiles": [
+    "English/每日输入.md",
+    "Curriculum/通信原理.md",
+    "Matlab/自动控制.md",
+    "Skills/爬虫/Scrapy/Command.md",
+    "Skills/爬虫/Scrapy/Asset For Command/Shell.md",
+    "Skills/爬虫/Scrapy/Asset For Command/Spider 模板.md",
+    "ROS/服务端Server.md",
+    "OpenCV/Mat操作 8f3359fe88984305bbf50746584d4cd4/Untitled.md",
+    "OpenCV/读取地理信息.md",
+    "OpenCV/Video & Camera.md"
+  ]
+}

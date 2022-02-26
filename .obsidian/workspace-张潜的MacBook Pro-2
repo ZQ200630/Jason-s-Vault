@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "6ee63c7b9908e030",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e8f326014db88a9",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b2e50c6a391a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33667a04fb2541d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3007fc56339a72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2ae761f207c2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258
+  },
+  "right": {
+    "id": "38af8a98e933f00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b59ea347bc3c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331b4bd365e19289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe3d3b9c1c7cfc76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181
+  },
+  "active": "9e8f326014db88a9",
+  "lastOpenFiles": [
+    "Programming/Tools/Bash/Bash.md",
+    "Programming/Tools/容器/Asset For Kubernates/二进制部署/QQ20200322150639.png",
+    "Programming/Tools/容器/Kubernates.md",
+    "Programming/Library/Python/爬虫/爬虫.md",
+    "Programming/Library/Python/深度学习/深度学习.md",
+    "Programming/Library/Python/深度学习/Asset For 深度学习/PyTorch.md",
+    "Programming/Library/C++/OpenCV.md",
+    "Programming/Library/Python/深度学习/Asset For 深度学习/Tensorflow.md",
+    "Programming/Library/Python/深度学习/Asset For 深度学习/Asset For Tensorflow/Basis/Generate The Tensor.md",
+    "Programming/Library/Python/深度学习/Asset For 深度学习/Asset For Tensorflow/Basis/Loss Function.md"
+  ]
+}

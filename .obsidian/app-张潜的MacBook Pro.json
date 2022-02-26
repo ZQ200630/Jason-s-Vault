@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "foldHeading": false,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "vimMode": false,
+  "attachmentFolderPath": "./"
+}

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "68bfc9af8ceedc3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "12b582e35fd9e77a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/每日输入/2022.2.27.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b2e50c6a391a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33667a04fb2541d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3007fc56339a72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2ae761f207c2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Think like a coder",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "904d33c3c5d79efe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "right": {
+    "id": "38af8a98e933f00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b59ea347bc3c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331b4bd365e19289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/每日输入/2022.2.27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fe3d3b9c1c7cfc76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/每日输入/2022.2.27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f32c20df1e79d37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c1203f1e5b350f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/每日输入/2022.2.27.md"
+              }
+            }
+          },
+          {
+            "id": "96e351c2c2c50181",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fd5129f2b858c8a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305,
+    "collapsed": true
+  },
+  "active": "12b582e35fd9e77a",
+  "lastOpenFiles": [
+    "English/每日输入/2022.2.27.md",
+    "English/每日输入/2022.2.26.md",
+    "English/每日输入/2022.2.25.md",
+    "English/每日输入/2022.2.24.md",
+    "电极设计.md",
+    "English/每日输入/2022.2.23.md",
+    "English/每日输入/2022.2.22.md",
+    "English/每日输入/2022.2.21.md",
+    "English/每日输入/2022.2.20.md",
+    "English/每日输入/2022.2.19.md"
+  ]
+}

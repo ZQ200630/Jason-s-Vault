@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "68bfc9af8ceedc3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e371bff8aa071df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/每日输入/2021.12.4.md",
+            "mode": "source"
+          }
+        },
+        "group": "8f3c9926b68165d4"
+      },
+      {
+        "id": "3294e0b291f5a846",
+        "type": "leaf",
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 1,
+              "id": "BV1Dk4y1q781",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=199#t=210",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=199&high_quality=1&danmaku=0",
+              "hash": "#t=210"
+            },
+            "currentTime": 0
+          }
+        },
+        "group": "8f3c9926b68165d4"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b2e50c6a391a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33667a04fb2541d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3007fc56339a72d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2ae761f207c2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "904d33c3c5d79efe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "38af8a98e933f00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b59ea347bc3c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331b4bd365e19289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/每日输入/2021.12.4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fe3d3b9c1c7cfc76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/每日输入/2021.12.4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f32c20df1e79d37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c1203f1e5b350f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/每日输入/2021.12.4.md"
+              }
+            }
+          },
+          {
+            "id": "96e351c2c2c50181",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fd5129f2b858c8a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305,
+    "collapsed": true
+  },
+  "active": "3e371bff8aa071df",
+  "lastOpenFiles": [
+    "English/每日输入/2021.12.4.md",
+    "English/每日输入/2021.12.3.md",
+    "Private/Password.md",
+    "English/每日输入/2021.12.2.md",
+    "English/每日输入/2021.12.1.md",
+    "English/每日输入/2021.11.30.md",
+    "English/每日输入/2021.11.29.md",
+    "仿真教程.md",
+    "Pasted image 20211128133306.png",
+    "English/每日输入/2021.11.28.md"
+  ]
+}

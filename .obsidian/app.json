@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "foldHeading": false,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "vimMode": false,
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": true
+}

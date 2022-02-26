@@ -1,0 +1,39 @@
+{
+  "choices": [
+    {
+      "id": "7daeb793-e7d3-4e5e-93f9-5d8fba6fe3ae",
+      "name": "CMI",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Ideas/MyIdea.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": []
+}
