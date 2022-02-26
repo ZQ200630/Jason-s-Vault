@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "生产实习/API函数.md",
-            "mode": "preview",
+            "file": "123.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生产实习/API函数.md",
+                "file": "123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生产实习/API函数.md",
+                "file": "123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生产实习/API函数.md"
+                "file": "123.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "12b582e35fd9e77a",
   "lastOpenFiles": [
+    "123.md",
     "生产实习/API函数.md",
     "English/每日输入/2022.2.27.md",
     "English/每日输入/2022.2.26.md",
@@ -155,7 +156,6 @@
     "电极设计.md",
     "English/每日输入/2022.2.23.md",
     "English/每日输入/2022.2.22.md",
-    "English/每日输入/2022.2.21.md",
-    "English/每日输入/2022.2.20.md"
+    "English/每日输入/2022.2.21.md"
   ]
 }
