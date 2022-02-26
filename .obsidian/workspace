@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f331f1af78f0b822",
+        "id": "24c08f33c1d093f2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "English/每日输入/2022.2.27.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/每日输入/2022.2.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/每日输入/2022.2.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/每日输入/2022.2.27.md"
+              }
             }
           },
           {
@@ -137,17 +145,17 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "f331f1af78f0b822",
+  "active": "24c08f33c1d093f2",
   "lastOpenFiles": [
-    "123.md",
-    "生产实习/API函数.md",
     "English/每日输入/2022.2.27.md",
     "English/每日输入/2022.2.26.md",
+    "English/每日输入/Untitled.md",
+    "123.md",
+    "生产实习/API函数.md",
     "English/每日输入/2022.2.25.md",
     "English/每日输入/2022.2.24.md",
     "电极设计.md",
     "English/每日输入/2022.2.23.md",
-    "English/每日输入/2022.2.22.md",
-    "English/每日输入/2022.2.21.md"
+    "English/每日输入/2022.2.22.md"
   ]
 }
