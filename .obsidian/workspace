@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.2.27.md",
+            "file": "English/每日输入/2022.2.28.md",
             "mode": "source",
             "source": false
           }
@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=340",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=340&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=341",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=341&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 269.282273
+            "currentTime": 141.841643
           }
         },
         "group": "79e7e14e500fd39a"
@@ -96,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.2.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.2.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/每日输入/2022.2.27.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +160,11 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "24c08f33c1d093f2",
+  "active": "3a616557f3de5bf8",
   "lastOpenFiles": [
+    "English/每日输入/2022.2.28.md",
     "English/每日输入/2022.2.27.md",
     "English/每日输入/2022.2.26.md",
-    "English/每日输入/Untitled.md",
     "123.md",
     "生产实习/API函数.md",
     "English/每日输入/2022.2.25.md",
