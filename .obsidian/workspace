@@ -7,9 +7,32 @@
         "id": "49f05ea4e7720623",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "English/每日输入/2022.3.1.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "1777eac541373a89"
+      },
+      {
+        "id": "82dc9a9c58b555dd",
+        "type": "leaf",
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 1,
+              "id": "BV1Dk4y1q781",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=343",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=343&high_quality=1&danmaku=0",
+              "hash": ""
+            },
+            "currentTime": 6.55575
+          }
+        },
+        "group": "1777eac541373a89"
       }
     ],
     "direction": "vertical"
@@ -57,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -73,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/每日输入/2022.3.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/每日输入/2022.3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/每日输入/2022.3.1.md"
+              }
             }
           },
           {
@@ -139,15 +167,15 @@
   },
   "active": "49f05ea4e7720623",
   "lastOpenFiles": [
+    "English/每日输入/2022.3.1.md",
+    "English/每日输入/2022.2.26.md",
+    "English/每日输入/2022..md",
     "TTTTT.md",
     "English/每日输入.md",
     "English/每日输入/2022.2.27.md",
     "生产实习/API函数.md",
-    "English/每日输入/2022.2.26.md",
     "English/每日输入/2022.2.25.md",
     "English/每日输入/2022.2.24.md",
-    "电极设计.md",
-    "English/每日输入/2022.2.23.md",
-    "English/每日输入/2022.2.22.md"
+    "电极设计.md"
   ]
 }
