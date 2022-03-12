@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "49f05ea4e7720623",
+        "id": "ed8fedcf189255e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "English/每日输入/2022.3.13.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         },
-        "group": "3a6dbf0859e36c12"
+        "group": "36a499ff1b602f2b"
       },
       {
-        "id": "ed8fedcf189255e6",
+        "id": "b7a849786a7b4542",
         "type": "leaf",
         "state": {
           "type": "media-view",
@@ -29,10 +29,10 @@
               "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=368&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": 0.326126
           }
         },
-        "group": "3a6dbf0859e36c12"
+        "group": "36a499ff1b602f2b"
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "49f05ea4e7720623",
+  "active": "ed8fedcf189255e6",
   "lastOpenFiles": [
     "English/每日输入/2022.3.13.md",
     "English/每日输入/2022.3.12.md",
