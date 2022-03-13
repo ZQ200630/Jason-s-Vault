@@ -9,30 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.3.14.md",
-            "mode": "source",
+            "file": "Private/Password.md",
+            "mode": "preview",
             "source": false
           }
-        },
-        "group": "d2fd1e3fea9b99b6"
-      },
-      {
-        "id": "1cfd3e3dd5963fc4",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=370",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=370&high_quality=1&danmaku=0",
-              "hash": ""
-            },
-            "currentTime": 216.148317
-          }
-        },
-        "group": "d2fd1e3fea9b99b6"
+        }
       }
     ],
     "direction": "vertical"
@@ -59,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tensor",
+                "query": "onedrive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -97,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.3.14.md",
+                "file": "Private/Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.3.14.md",
+                "file": "Private/Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/每日输入/2022.3.14.md"
+                "file": "Private/Password.md"
               }
             }
           },
@@ -167,15 +147,15 @@
   },
   "active": "ed8fedcf189255e6",
   "lastOpenFiles": [
-    "English/每日输入/2022.3.14.md",
     "Private/Password.md",
+    "Private/Private.md",
+    "English/每日输入/2022.3.14.md",
     "English/每日输入/2022.3.13.md",
     "English/每日输入/2022.3.12.md",
     "English/每日输入/2022.3.11.md",
     "English/每日输入/2022.3.10.md",
     "Programming/Library/Python/深度学习/TensorFlow/Basis/Useful Function.md",
     "Programming/Library/C++/OpenCV/结构张量.md",
-    "Programming/Library/Python/深度学习/PyTorch/PyTorch.md",
-    "论文对比/论文.md"
+    "Programming/Library/Python/深度学习/PyTorch/PyTorch.md"
   ]
 }
