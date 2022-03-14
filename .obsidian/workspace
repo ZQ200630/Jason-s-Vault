@@ -29,7 +29,7 @@
               "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=373&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": 44.886814
           }
         },
         "group": "6d2a48e68922e98f"
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "38af8a98e933f00f",
