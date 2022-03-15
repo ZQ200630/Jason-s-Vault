@@ -9,30 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.3.16.md",
-            "mode": "source",
+            "file": "Programming/Language/Matlab/信号与系统.md",
+            "mode": "preview",
             "source": false
           }
-        },
-        "group": "6d2a48e68922e98f"
-      },
-      {
-        "id": "b38ad05d488dc5a9",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=374",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=374&high_quality=1&danmaku=0",
-              "hash": ""
-            },
-            "currentTime": 0
-          }
-        },
-        "group": "6d2a48e68922e98f"
+        }
       }
     ],
     "direction": "vertical"
@@ -80,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -97,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.3.16.md",
+                "file": "Programming/Language/Matlab/信号与系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.3.16.md",
+                "file": "Programming/Language/Matlab/信号与系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/每日输入/2022.3.16.md"
+                "file": "Programming/Language/Matlab/信号与系统.md"
               }
             }
           },
@@ -167,6 +147,8 @@
   },
   "active": "ed8fedcf189255e6",
   "lastOpenFiles": [
+    "Programming/Language/Matlab/信号与系统.md",
+    "Programming/Language/Matlab/自动控制.md",
     "English/每日输入/2022.3.16.md",
     "English/每日输入/2022.3.15.md",
     "English/每日输入/2022.3.14.md",
@@ -174,8 +156,6 @@
     "Private/Private.md",
     "English/每日输入/2022.3.13.md",
     "English/每日输入/2022.3.12.md",
-    "English/每日输入/2022.3.11.md",
-    "English/每日输入/2022.3.10.md",
-    "Programming/Library/Python/深度学习/TensorFlow/Basis/Useful Function.md"
+    "English/每日输入/2022.3.11.md"
   ]
 }
