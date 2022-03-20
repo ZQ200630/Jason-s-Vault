@@ -9,11 +9,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.3.20.md",
-            "mode": "source",
+            "file": "English/每日输入/2022.3.21.md",
+            "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "48026a7a53b1d68f"
+      },
+      {
+        "id": "31de608bd90f4634",
+        "type": "leaf",
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 1,
+              "id": "BV1Dk4y1q781",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=383",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=383&high_quality=1&danmaku=0",
+              "hash": ""
+            },
+            "currentTime": 0
+          }
+        },
+        "group": "48026a7a53b1d68f"
       }
     ],
     "direction": "vertical"
@@ -78,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.3.20.md",
+                "file": "English/每日输入/2022.3.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.3.20.md",
+                "file": "English/每日输入/2022.3.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/每日输入/2022.3.20.md"
+                "file": "English/每日输入/2022.3.21.md"
               }
             }
           },
@@ -148,6 +167,7 @@
   },
   "active": "ed8fedcf189255e6",
   "lastOpenFiles": [
+    "English/每日输入/2022.3.21.md",
     "English/每日输入/2022.3.20.md",
     "English/每日输入/2022.3.19.md",
     "English/每日输入/2022.3.18.md",
@@ -156,7 +176,6 @@
     "Programming/Language/Matlab/基本操作.md",
     "Programming/Language/Matlab/图像处理.md",
     "Programming/Language/Matlab/线性代数.md",
-    "Programming/Language/Matlab/信号与系统.md",
-    "Programming/Language/Matlab/自动控制.md"
+    "Programming/Language/Matlab/信号与系统.md"
   ]
 }
