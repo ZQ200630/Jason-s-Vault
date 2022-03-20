@@ -13,26 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "5db5ef54872114c4"
-      },
-      {
-        "id": "be2985644686f92f",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=382",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=382&high_quality=1&danmaku=0",
-              "hash": ""
-            },
-            "currentTime": 0
-          }
-        },
-        "group": "5db5ef54872114c4"
+        }
       }
     ],
     "direction": "vertical"
