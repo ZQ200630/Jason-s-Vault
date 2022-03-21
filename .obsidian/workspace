@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "English/每日输入/2022.3.21.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         },
@@ -29,7 +29,7 @@
               "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=383&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 99.600335
+            "currentTime": 0
           }
         },
         "group": "499b79c35cc0b67f"
