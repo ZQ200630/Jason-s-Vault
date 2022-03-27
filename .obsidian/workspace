@@ -7,32 +7,9 @@
         "id": "ed8fedcf189255e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "English/每日输入/2022.3.27.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "0a12b8b1a48c4c4a"
-      },
-      {
-        "id": "0767e4de982d509a",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=396",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=396&high_quality=1&danmaku=0",
-              "hash": ""
-            },
-            "currentTime": 34.581374
-          }
-        },
-        "group": "0a12b8b1a48c4c4a"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.3.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.3.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/每日输入/2022.3.27.md"
-              }
+              "state": {}
             }
           },
           {
