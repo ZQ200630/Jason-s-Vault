@@ -9,11 +9,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.4.20.md",
+            "file": "English/每日输入/2022.4.21.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "6cc364f7853d07b9"
+      },
+      {
+        "id": "b3e0cc58d3199918",
+        "type": "leaf",
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 1,
+              "id": "BV1Dk4y1q781",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=445",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=445&high_quality=1&danmaku=0",
+              "hash": ""
+            },
+            "currentTime": 5.374583
+          }
+        },
+        "group": "6cc364f7853d07b9"
       }
     ],
     "direction": "vertical"
@@ -78,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.4.20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.4.20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/每日输入/2022.4.20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,8 +161,9 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "ed8fedcf189255e6",
+  "active": "b3e0cc58d3199918",
   "lastOpenFiles": [
+    "English/每日输入/2022.4.21.md",
     "English/每日输入/2022.4.20.md",
     "English/每日输入/2022.4.19.md",
     "English/每日输入/2022.4.18.md",
@@ -156,7 +172,6 @@
     "English/每日输入/2022.4.15.md",
     "English/每日输入/2022.4.14.md",
     "English/每日输入/2022.4.13.md",
-    "English/每日输入/2022.4.12.md",
-    "English/每日输入/2022.4.11.md"
+    "English/每日输入/2022.4.12.md"
   ]
 }
