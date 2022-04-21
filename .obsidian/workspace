@@ -9,15 +9,15 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.4.21.md",
+            "file": "English/每日输入/2022.4.23.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "6cc364f7853d07b9"
+        "group": "a69f69799384cd90"
       },
       {
-        "id": "b3e0cc58d3199918",
+        "id": "81e02d71a6afe116",
         "type": "leaf",
         "state": {
           "type": "media-view",
@@ -25,14 +25,14 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=446",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=446&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=447",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=447&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": 53.48
           }
         },
-        "group": "6cc364f7853d07b9"
+        "group": "a69f69799384cd90"
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.4.21.md",
+                "file": "English/每日输入/2022.4.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.4.21.md",
+                "file": "English/每日输入/2022.4.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/每日输入/2022.4.21.md"
+                "file": "English/每日输入/2022.4.23.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "ed8fedcf189255e6",
   "lastOpenFiles": [
+    "English/每日输入/2022.4.23.md",
     "English/每日输入/2022.4.21.md",
     "English/每日输入/2022.4.20.md",
     "English/每日输入/2022.4.19.md",
@@ -175,7 +176,6 @@
     "English/每日输入/2022.4.16.md",
     "English/每日输入/2022.4.15.md",
     "English/每日输入/2022.4.14.md",
-    "English/每日输入/2022.4.13.md",
-    "English/每日输入/2022.4.12.md"
+    "English/每日输入/2022.4.13.md"
   ]
 }
