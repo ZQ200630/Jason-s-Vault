@@ -11,7 +11,7 @@
           "state": {
             "file": "English/每日输入/2022.4.26.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "178458bd77f50467"
@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=455",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=455&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=456",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=456&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 34.550834
+            "currentTime": 15.708875
           }
         },
         "group": "178458bd77f50467"
