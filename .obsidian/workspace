@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.5.26.md",
+            "file": "English/每日输入/2022.5.27.md",
             "mode": "source",
             "source": true
           }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.5.26.md",
+                "file": "English/每日输入/2022.5.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.5.26.md",
+                "file": "English/每日输入/2022.5.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/每日输入/2022.5.26.md"
+                "file": "English/每日输入/2022.5.27.md"
               }
             }
           },
@@ -167,6 +166,7 @@
   },
   "active": "0eb66121566b79ae",
   "lastOpenFiles": [
+    "English/每日输入/2022.5.27.md",
     "English/每日输入/2022.5.26.md",
     "English/每日输入/2022.5.25.md",
     "English/每日输入/2022.5.24.md",
@@ -175,7 +175,6 @@
     "English/每日输入/2021.11.22.md",
     "English/每日输入/2022.5.21.md",
     "English/每日输入/2022.5.20.md",
-    "English/每日输入/2022.5.19.md",
-    "English/每日输入/2022.5.18.md"
+    "English/每日输入/2022.5.19.md"
   ]
 }
