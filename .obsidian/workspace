@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=560",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=560&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=561",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=561&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 241.046375
+            "currentTime": 78.68425
           }
         },
         "group": "65ccc7f35c83c4c2"
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "38af8a98e933f00f",
