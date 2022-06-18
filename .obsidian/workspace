@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=562",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=562&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=564",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=564&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 68.585084
+            "currentTime": 0
           }
         },
         "group": "65ccc7f35c83c4c2"
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -168,13 +169,13 @@
   "lastOpenFiles": [
     "English/每日输入/2022.6.19.md",
     "English/每日输入/2022.6.18.md",
+    "English/每日输入/2022.6.17.md",
     "English/每日输入/2022.6.16.md",
     "English/每日输入/2022.6.15.md",
     "English/每日输入/2022.6.14.md",
     "English/每日输入/2022.6.13.md",
     "English/每日输入/2022.6.12.md",
     "English/每日输入/2022.6.11.md",
-    "English/每日输入/2022.6.10.md",
-    "English/每日输入/2022.6.9.md"
+    "English/每日输入/2022.6.10.md"
   ]
 }
