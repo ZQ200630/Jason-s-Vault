@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=591",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=591&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=592",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=592&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0.59175
+            "currentTime": 21.628876
           }
         },
         "group": "2af841b8cc725e90"
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/每日输入/2022.7.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/每日输入/2022.7.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/每日输入/2022.7.3.md"
+              }
             }
           },
           {
@@ -161,7 +165,7 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "1df7b33c9cdfc685",
+  "active": "0eb66121566b79ae",
   "lastOpenFiles": [
     "English/每日输入/2022.7.3.md",
     "English/每日输入/2022.7.2.md",
