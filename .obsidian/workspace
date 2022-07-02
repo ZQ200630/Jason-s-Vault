@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.7.2.md",
+            "file": "English/每日输入/2022.7.3.md",
             "mode": "source",
             "source": true
           }
@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=590",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=590&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=591",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=591&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": 0.59175
           }
         },
         "group": "2af841b8cc725e90"
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.7.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.7.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/每日输入/2022.7.2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +161,9 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "0eb66121566b79ae",
+  "active": "1df7b33c9cdfc685",
   "lastOpenFiles": [
+    "English/每日输入/2022.7.3.md",
     "English/每日输入/2022.7.2.md",
     "English/每日输入/2022.7.1.md",
     "English/每日输入/2022.6.30.md",
@@ -175,7 +172,6 @@
     "English/每日输入/2022.6.27.md",
     "English/每日输入/2022.6.26.md",
     "English/每日输入/2022.6.25.md",
-    "English/每日输入/2022.6.24.md",
-    "English/每日输入/2022.6.23.md"
+    "English/每日输入/2022.6.24.md"
   ]
 }
