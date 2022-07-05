@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.7.5.md",
+            "file": "English/每日输入/2022.7.6.md",
             "mode": "source",
             "source": true
           }
@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=595",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=595&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=596",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=596&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 12.289666
+            "currentTime": 28.661
           }
         },
         "group": "2af841b8cc725e90"
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.7.5.md",
+                "file": "English/每日输入/2022.7.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.7.5.md",
+                "file": "English/每日输入/2022.7.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/每日输入/2022.7.5.md"
+                "file": "English/每日输入/2022.7.6.md"
               }
             }
           },
@@ -167,6 +166,7 @@
   },
   "active": "0eb66121566b79ae",
   "lastOpenFiles": [
+    "English/每日输入/2022.7.6.md",
     "English/每日输入/2022.7.5.md",
     "English/每日输入/2022.7.4.md",
     "English/每日输入/2022.7.3.md",
@@ -175,7 +175,6 @@
     "English/每日输入/2022.6.30.md",
     "English/每日输入/2022.6.29.md",
     "English/每日输入/2022.6.28.md",
-    "English/每日输入/2022.6.27.md",
-    "English/每日输入/2022.6.26.md"
+    "English/每日输入/2022.6.27.md"
   ]
 }
