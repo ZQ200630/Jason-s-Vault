@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Language/Matlab/图像处理.md",
-            "mode": "source",
+            "file": "Programming/Language/Matlab/基本操作.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Language/Matlab/图像处理.md",
+                "file": "Programming/Language/Matlab/基本操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Language/Matlab/图像处理.md",
+                "file": "Programming/Language/Matlab/基本操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Language/Matlab/图像处理.md"
+                "file": "Programming/Language/Matlab/基本操作.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "0eb66121566b79ae",
   "lastOpenFiles": [
+    "Programming/Language/Matlab/基本操作.md",
     "Programming/Language/Matlab/图像处理.md",
     "English/每日输入/2022.7.10.md",
     "English/每日输入/2022.7.9.md",
@@ -155,7 +156,6 @@
     "English/每日输入/2022.7.6.md",
     "English/每日输入/2022.7.5.md",
     "English/每日输入/2022.7.4.md",
-    "English/每日输入/2022.7.3.md",
-    "English/每日输入/2022.7.2.md"
+    "English/每日输入/2022.7.3.md"
   ]
 }
