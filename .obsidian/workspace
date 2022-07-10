@@ -9,11 +9,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Library/Python/深度学习/PyTorch/PyTorch.md",
-            "mode": "preview",
+            "file": "English/每日输入/2022.7.11.md",
+            "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "5c577406976810a0"
+      },
+      {
+        "id": "1e7bc4bdd3cfcf73",
+        "type": "leaf",
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 1,
+              "id": "BV1Dk4y1q781",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=607",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=607&high_quality=1&danmaku=0",
+              "hash": ""
+            },
+            "currentTime": 0
+          }
+        },
+        "group": "5c577406976810a0"
       }
     ],
     "direction": "vertical"
@@ -61,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -77,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Library/Python/深度学习/PyTorch/PyTorch.md",
+                "file": "English/每日输入/2022.7.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Library/Python/深度学习/PyTorch/PyTorch.md",
+                "file": "English/每日输入/2022.7.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Library/Python/深度学习/PyTorch/PyTorch.md"
+                "file": "English/每日输入/2022.7.11.md"
               }
             }
           },
@@ -147,6 +167,7 @@
   },
   "active": "0eb66121566b79ae",
   "lastOpenFiles": [
+    "English/每日输入/2022.7.11.md",
     "Programming/Library/Python/深度学习/PyTorch/PyTorch.md",
     "Programming/Library/Python/Scrapy/Command/Shell.md",
     "Programming/Library/Python/Scrapy/Command/Command.md",
@@ -155,7 +176,6 @@
     "Programming/Language/Matlab/自动控制.md",
     "Programming/Language/Matlab/信号与系统.md",
     "Programming/Language/Matlab/图像处理.md",
-    "Programming/Language/Matlab/基本操作.md",
-    "English/每日输入/2022.7.10.md"
+    "Programming/Language/Matlab/基本操作.md"
   ]
 }
