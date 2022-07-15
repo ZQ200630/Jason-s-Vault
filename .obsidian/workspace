@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.7.15.md",
+            "file": "English/每日输入/2022.7.16.md",
             "mode": "source",
             "source": true
           }
@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=616",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=616&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=617",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=617&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": 152.028836
           }
         },
         "group": "5c577406976810a0"
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -162,6 +163,7 @@
   },
   "active": "1e7bc4bdd3cfcf73",
   "lastOpenFiles": [
+    "English/每日输入/2022.7.16.md",
     "English/每日输入/2022.7.15.md",
     "English/每日输入/2022.7.14.md",
     "English/每日输入/2022.7.13.md",
@@ -170,7 +172,6 @@
     "Programming/Library/Python/深度学习/PyTorch/PyTorch.md",
     "Programming/Library/Python/Scrapy/Command/Shell.md",
     "Programming/Library/Python/Scrapy/Command/Command.md",
-    "Programming/Library/Python/Scrapy/Command/新建项目.md",
-    "Programming/Library/Python/Selenium/等待.md"
+    "Programming/Library/Python/Scrapy/Command/新建项目.md"
   ]
 }
