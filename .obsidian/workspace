@@ -9,15 +9,15 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.7.19.md",
+            "file": "English/每日输入/2022.7.20.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "a8a81fc76a938220"
+        "group": "1ec7a8232d49c29f"
       },
       {
-        "id": "6b31ca907aa8d211",
+        "id": "72e6a319340bf33c",
         "type": "leaf",
         "state": {
           "type": "media-view",
@@ -25,14 +25,14 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=624",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=624&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=625",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=625&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": 136.229081
           }
         },
-        "group": "a8a81fc76a938220"
+        "group": "1ec7a8232d49c29f"
       }
     ],
     "direction": "vertical"
@@ -161,8 +161,9 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "6b31ca907aa8d211",
+  "active": "72e6a319340bf33c",
   "lastOpenFiles": [
+    "English/每日输入/2022.7.20.md",
     "English/每日输入/2022.7.19.md",
     "English/每日输入/2022.7.18.md",
     "English/每日输入/2022.7.17.md",
@@ -171,7 +172,6 @@
     "English/每日输入/2022.7.14.md",
     "English/每日输入/2022.7.13.md",
     "English/每日输入/2022.7.12.md",
-    "English/每日输入/2022.7.11.md",
-    "Programming/Library/Python/深度学习/PyTorch/PyTorch.md"
+    "English/每日输入/2022.7.11.md"
   ]
 }
