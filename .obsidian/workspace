@@ -29,7 +29,7 @@
               "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=630&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 1.884083
+            "currentTime": 0
           }
         },
         "group": "e761b4cb72ae0e05"
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.7.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.7.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/每日输入/2022.7.22.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +161,7 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "a3637d5676da9ec5",
+  "active": "6e17769b99af657d",
   "lastOpenFiles": [
     "English/每日输入/2022.7.22.md",
     "English/每日输入/2022.7.21.md",
