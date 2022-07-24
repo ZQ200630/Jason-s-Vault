@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=634",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=634&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=635",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=635&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 198.250625
+            "currentTime": 76.378416
           }
         },
         "group": "e761b4cb72ae0e05"
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日输入/2022.7.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日输入/2022.7.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/每日输入/2022.7.25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +161,9 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "a3637d5676da9ec5",
+  "active": "6e17769b99af657d",
   "lastOpenFiles": [
+    "English/每日输入/2022.7.25.md",
     "English/每日输入/2022.7.24.md",
     "English/每日输入/2022.7.23.md",
     "English/每日输入/2022.7.22.md",
@@ -175,7 +172,6 @@
     "English/每日输入/2022.7.19.md",
     "English/每日输入/2022.7.18.md",
     "English/每日输入/2022.7.17.md",
-    "English/每日输入/2022.7.16.md",
-    "English/每日输入/2022.7.15.md"
+    "English/每日输入/2022.7.16.md"
   ]
 }
