@@ -22,14 +22,8 @@
         "state": {
           "type": "media-view",
           "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=642",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=642&high_quality=1&danmaku=0",
-              "hash": ""
-            },
-            "currentTime": 110.833172
+            "info": {},
+            "currentTime": 0
           }
         },
         "group": "e761b4cb72ae0e05"
