@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.8.11.md",
+            "file": "English/每日输入/2022.8.12.md",
             "mode": "source",
             "source": true
           }
@@ -25,11 +25,11 @@
             "info": {
               "host": 1,
               "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=646",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=646&high_quality=1&danmaku=0",
+              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=647",
+              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=647&high_quality=1&danmaku=0",
               "hash": ""
             },
-            "currentTime": 0
+            "currentTime": 160.429793
           }
         },
         "group": "e761b4cb72ae0e05"
@@ -163,6 +163,7 @@
   },
   "active": "6e17769b99af657d",
   "lastOpenFiles": [
+    "English/每日输入/2022.8.12.md",
     "English/每日输入/2022.8.11.md",
     "English/每日输入/2022.8.10.md",
     "English/每日输入/2022.8.9.md",
@@ -171,7 +172,6 @@
     "English/每日输入/2022.7.25.md",
     "English/每日输入/2022.7.24.md",
     "English/每日输入/2022.7.23.md",
-    "English/每日输入/2022.7.22.md",
-    "English/每日输入/2022.7.21.md"
+    "English/每日输入/2022.7.22.md"
   ]
 }
