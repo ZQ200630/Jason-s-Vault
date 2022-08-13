@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/每日输入/2022.8.12.md",
+            "file": "English/每日输入/2022.8.13.md",
             "mode": "source",
             "source": true
           }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "38af8a98e933f00f",
@@ -97,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/每日输入/2022.8.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/每日输入/2022.8.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/每日输入/2022.8.13.md"
+              }
             }
           },
           {
@@ -161,7 +164,7 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "6e17769b99af657d",
+  "active": "a3637d5676da9ec5",
   "lastOpenFiles": [
     "English/每日输入/2022.8.12.md",
     "English/每日输入/2022.8.11.md",
