@@ -4,35 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24c08f33c1d093f2",
+        "id": "d1c74970b4fd338a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Private/Password.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "79e7e14e500fd39a"
-      },
-      {
-        "id": "3a616557f3de5bf8",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1Dk4y1q781",
-              "src": "https://www.bilibili.com/video/BV1Dk4y1q781?p=342",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Dk4y1q781&page=342&high_quality=1&danmaku=0",
-              "hash": ""
-            },
-            "currentTime": 251.953276
-          }
-        },
-        "group": "79e7e14e500fd39a"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Private/Password.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +137,7 @@
     "width": 305,
     "collapsed": true
   },
-  "active": "24c08f33c1d093f2",
+  "active": "d1c74970b4fd338a",
   "lastOpenFiles": [
     "Private/Password.md",
     "English/每日输入/2022.2.28.md",
